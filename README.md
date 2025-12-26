@@ -16,7 +16,7 @@ A fun, interactive Matrix-style digital rain effect that creates personalized Li
 
 ## 🎯 How It Works
 
-The banner displays characters falling like rain. When characters form complete words from your skills list (like "Rust", "Java", "Kubernetes"), they light up in cyan while everything else remains in faint green.
+The banner displays characters falling like rain. When characters form complete words from your skills list (like "Rust", "Java", "Kubernetes"), they light up in cyan while everything else remains in faint green. Replace and use at your will. I just needed a cool banner for linkedin. 
 
 ## 🚀 Quick Start
 
