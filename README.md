@@ -63,10 +63,15 @@ In the draw function, you can change:
 
 ```
 matrix-linkedin-banner/
-├── index.html      # Main HTML file
-├── style.css       # Styling
-├── script.js       # Matrix effect logic
-└── README.md       # This file
+├── index.html          # Main HTML file
+├── src/
+│   ├── css/
+│   │   └── style.css   # Styling
+│   └── js/
+│       └── script.js    # Matrix effect logic
+├── README.md           # This file
+├── LICENSE             # MIT License
+└── .gitignore          # Git ignore rules
 ```
 
 ## 🎨 Technical Details
