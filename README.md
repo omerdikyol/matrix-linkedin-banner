@@ -78,26 +78,9 @@ matrix-linkedin-banner/
 
 ## 📝 License
 
-This project is open source and available for personal and commercial use.
-
-## 🤝 Contributing
-
-Feel free to fork, modify, and create your own version! Some ideas:
-- Add more visual effects
-- Support different banner sizes
-- Add word animation effects
-- Create preset themes
-
-## 💡 Tips
-
-- Wait for multiple words to appear before downloading
-- The effect is continuous, so you can download anytime
-- Try different browser window sizes to see the effect adapt
-- Customize the words to match your personal brand
+MIT License - See LICENSE file for details.
 
 ---
 
 **Made with 💚 and Matrix vibes**
-
-Enjoy creating your personalized LinkedIn banner! 🚀
 
